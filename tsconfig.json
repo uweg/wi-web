@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "ES2018",
+    "outDir": "build",
+    "strict": true,
+    "sourceMap": true,
+    "declaration": true,
+    "declarationDir": "declarations",
+    "lib": ["ES2015", "DOM"]
+  },
+  "exclude": ["node_modules"]
+}
