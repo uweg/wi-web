@@ -1,12 +1,16 @@
 {
   "name": "wi-web",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "",
   "main": "dist/wi-web.js",
   "typings": "declarations/lib.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "files": [
+    "dist",
+    "declarations"
+  ],
   "author": "",
   "license": "ISC",
   "devDependencies": {
